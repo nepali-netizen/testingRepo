@@ -2,3 +2,7 @@ hello github
 i am nitesh poudel and i am a noob here
 please guide me through the world of software 
 engineering.
+
+Push Successful 
+I am in github finally.
+I am learning this slowly and steadily.
